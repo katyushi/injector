@@ -1,0 +1,6 @@
+{
+  "appId": "com.figurinhas.injector",
+  "appName": "Figurinhas Injector",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
